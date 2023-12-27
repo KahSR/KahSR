@@ -15,5 +15,3 @@ Estou aprendendo a codificar. Estudo por conta própia com ajuda de cursos gratu
 
 - ✨ HTML5, CSS3 e JavaScript.
 - ✨ Atualmente estou mais focado em aprender JavaScript.
-</br></br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KahSR&show_icons=true&theme=midnight-purple)](https://github.com/KahSR/KahSR/edit/main/README.md)
